@@ -1,4 +1,4 @@
-# Mental-Health-Locations
+# 💖 Mental-Health-Locations 💖
 
 An analysis of residential mental health locations in California. Inspired by my current internship at the Mental Health Commission at Associated Students UCI.
 
