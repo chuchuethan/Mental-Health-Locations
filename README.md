@@ -9,7 +9,7 @@ An analysis of residential mental health locations in California. Inspired by my
 - Python
 
 # Goals
-- Get a feel for Power BI (so now I can use either Tableau or Power BI yay!)
+- Get a feel for Power BI
 - Practice data cleaning
 - Practice statistical testing
 
